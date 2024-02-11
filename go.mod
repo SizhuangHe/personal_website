@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/SizhuangHe/personal_website
 
 go 1.22.0
 
