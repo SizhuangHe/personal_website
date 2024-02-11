@@ -5,7 +5,7 @@
 author:
   name: SizhuangHe
   image: author.png
-  greeting: "Your new Qubt site :tada:"
+  greeting: "Welcome to the website of Sizhuang He!"
   icon: ":wave:"
 
 ############################
@@ -13,12 +13,12 @@ author:
 ############################
 
 links:
-  - github: https://github.com/SizhuangHe/personal_website
-  - link: https://github.com/SizhuangHe/personal_website#readme
+  - github: https://github.com/SizhuangHe
+  # - link: https://github.com/SizhuangHe/personal_website#readme
   # - website: 
-  # - x-twitter: 
+  - x-twitter: https://twitter.com/sizhuang_
   # - mastodon: 
-  # - linkedin: 
+  - linkedin: https://www.linkedin.com/in/sizhuanghe/
   # - instagram: 
   # - reddit: 
   # - telegram: 
