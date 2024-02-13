@@ -1,5 +1,5 @@
 ---
-title: News
+title: :tada:News
 date: 2024-02-10
 ---
 #### :tada: My new personal website is now live! -- Feb 10, 2024
