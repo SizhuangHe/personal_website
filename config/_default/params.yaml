@@ -19,6 +19,8 @@ links:
   - x-twitter: https://twitter.com/sizhuang_
   # - mastodon: 
   - linkedin: https://www.linkedin.com/in/sizhuanghe/
+
+
   # - instagram: 
   # - reddit: 
   # - telegram: 
@@ -26,7 +28,7 @@ links:
   # - signal: 
   # - codepen: 
   # - dev: 
-  # - email: 
+  - email: mailto:sizhuang@umich.edu
   # - discord: 
   # - orcid: 
   # - slack: 
