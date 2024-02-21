@@ -15,4 +15,4 @@ I am dedicated to the development of deep learning methodologies with biomedical
 
 Currently, I am privileged to work at [the van Dijk Lab](https://www.vandijklab.org/), under the guidance of Dr. David van Dijk. I have been working on exciting projects involving Graph Neural Networks, generative modeling, and operator learning.
 
-During my undergraduate studies, I have also worked on a Research Experience for Undergraduates (REU) project focused on Federated Learning in Medical Applications, advised by Dr. Maria Han Veiga. This project sparkled my interest in machine learning.
+During my undergraduate studies, I have also worked on a Research Experience for Undergraduates (REU) project focused on Federated Learning in Medical Applications, advised by Dr. [Maria Han Veiga](https://hanveiga.com/). This project sparkled my interest in machine learning.
