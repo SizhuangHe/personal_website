@@ -3,7 +3,7 @@
 type: misc
 
 # change these
-jobTitle: Masters student at University of Michigan. Go Blue!
+jobTitle: Incoming Computer Science Ph.D. student at Yale University
 name: SizhuangHe
 bio: true
 icon: ":coffee:"
