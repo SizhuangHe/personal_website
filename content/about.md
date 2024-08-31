@@ -9,7 +9,7 @@ bio: true
 icon: ":coffee:"
 ---
 
-Hi! My name is Sizhuang He. I'm a Masters' student in Data Science at the University of Michigan, Ann Arbor. Previously, I completed my Bachelor's degree at Michigan, majoring in Honors Mathematics and minoring in Computer Science.
+Hi! My name is Sizhuang He. I'm a first-year Computer Science Ph.D. student at [Yale University](https://www.yale.edu/). Previously, I completed my Bachelor's degree at University of Michigan, Ann Arbor, majoring in Honors Mathematics and minoring in Computer Science.
 
 I am dedicated to the development of deep learning methodologies with biomedical applications. My current research is centered around modeling continuous spatiotemporal dynamics using neural networks, grounded in theories of integral equations and iterative methods. Additionally, I have a keen interest in Geometric Deep Learning and Language Models and their applications in computational biology.
 
