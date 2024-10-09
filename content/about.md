@@ -4,7 +4,7 @@ type: misc
 
 # change these
 jobTitle: First-year Computer Science Ph.D. student at Yale University
-name: SizhuangHe
+name: Sizhuang He
 bio: true
 icon: ":coffee:"
 ---
@@ -17,3 +17,4 @@ During my undergraduate studies, I have also worked on a Research Experience for
 
 ## Publications 
 1. E. Zappala, D. Levine, **S. He**, S. Rizvi, S. L&eacute;vy and D. van Dijk, *Operator Learning Meets Numerical Analysis: Improving Neural Networks through Iterative Methods*, [arXiv:2310.01618](https://arxiv.org/pdf/2310.01618.pdf)
+1. S. Zhang, A. Patel,  S. Rizvi, N. Liu, **S. He**, A. Karbasi, E. Zappala and D. van Dijk, *Intelligence at the Edge of Chaos*, [arXiv:2410.02536](https://www.arxiv.org/pdf/2410.02536)
