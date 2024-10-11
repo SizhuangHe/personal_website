@@ -1,6 +1,6 @@
 ---
 title: CaLMFlow
-subtitle: "Volterra Flow Matching with Causal Language Models"
+subtitle: "Volterra Flow Matching using Causal Language Models"
 summary: We frame flow matching as a Volterra integral equation and apply causal language models to solve it.
 date: 2024-10-08
 cardimage: CaLMFlow.png
@@ -22,4 +22,4 @@ We introduce CaLMFlow (Causal Language Models for Flow Matching), a novel framew
 - David van Dijk
 
 ## Cite this paper
-Coming soon.
+S. He, D. Levine, I. Vrkic, M. Bressana, D. Zhang, S. Rizvi, Y. Zhang, E. Zappala, and D. van Dijk, *CaLMFlow: Volterra Flow Matching using Causal Language Models*, [arXiv:2410.05292](https://arxiv.org/pdf/2410.05292)

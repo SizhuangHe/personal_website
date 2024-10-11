@@ -16,5 +16,6 @@ I am dedicated to the development of deep learning methodologies with biomedical
 During my undergraduate studies, I have also worked on a Research Experience for Undergraduates (REU) project focused on Federated Learning in Medical Applications, advised by Dr. [Maria Han Veiga](https://hanveiga.com/). This project sparkled my interest in machine learning.
 
 ## Publications 
-1. E. Zappala, D. Levine, **S. He**, S. Rizvi, S. L&eacute;vy and D. van Dijk, *Operator Learning Meets Numerical Analysis: Improving Neural Networks through Iterative Methods*, [arXiv:2310.01618](https://arxiv.org/pdf/2310.01618.pdf)
-1. S. Zhang, A. Patel,  S. Rizvi, N. Liu, **S. He**, A. Karbasi, E. Zappala and D. van Dijk, *Intelligence at the Edge of Chaos*, [arXiv:2410.02536](https://www.arxiv.org/pdf/2410.02536)
+1. **S. He**, D. Levine, I. Vrkic, M. Bressana, D. Zhang, S. Rizvi, Y. Zhang, E. Zappala, and D. van Dijk, *CaLMFlow: Volterra Flow Matching using Causal Language Models*, [arXiv:2410.05292](https://arxiv.org/pdf/2410.05292)
+2. E. Zappala, D. Levine, **S. He**, S. Rizvi, S. L&eacute;vy and D. van Dijk, *Operator Learning Meets Numerical Analysis: Improving Neural Networks through Iterative Methods*, [arXiv:2310.01618](https://arxiv.org/pdf/2310.01618.pdf)
+3. S. Zhang, A. Patel,  S. Rizvi, N. Liu, **S. He**, A. Karbasi, E. Zappala and D. van Dijk, *Intelligence at the Edge of Chaos*, [arXiv:2410.02536](https://www.arxiv.org/pdf/2410.02536)
